@@ -1,0 +1,8 @@
+supervised learning
+y-dependent and x-independent
+Equation:
+linear Regression
+Decision tree
+Naive Bias
+SVM
+Random Forest
